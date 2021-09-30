@@ -1,4 +1,4 @@
-class Mastan
+ public class Mastan
  {
   public static void main(String[] args)
    {
