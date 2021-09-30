@@ -1,4 +1,5 @@
- public class Mastan
+package com.mycompany.app;
+public class Mastan
  {
   public static void main(String[] args)
    {
